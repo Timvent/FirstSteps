@@ -1,2 +1,3 @@
 # FirstSteps
 Getting Started
+Hi i'm tim and new to R...
